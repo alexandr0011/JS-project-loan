@@ -1,8 +1,8 @@
 ## Project name: Loan landing page
 
 ## Demo:
-alexandr0011.github.io/JS-project-loan/
-alexandr0011.github.io/JS-project-loan/modules
+https://alexandr0011.github.io/JS-project-loan/ </br>
+https://alexandr0011.github.io/JS-project-loan/modules
 
 # Technologies:
 - HTML
